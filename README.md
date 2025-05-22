@@ -11,7 +11,6 @@ This is a backend solution for the Webrom practical task. The system provides on
   `category`, `type`, `city`
 - Clean JSON response
 - Pre-seeded example activities
-- No frontend required
 
 ---
 ## Screenshot of endpoint in action
